@@ -53,4 +53,4 @@ jobs:
           app-name: 'EmployeeUdara'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_183715F985F44BA5ABA826AA52B78613 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C89CF87BC66648A38253CEB3B554E7DB }}
